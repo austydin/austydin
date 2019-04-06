@@ -1,0 +1,23 @@
+/* selector{
+    property: values;
+} */
+
+body{
+    background: red;
+     color: white;
+}
+
+h1{ 
+    background: gray;
+    color: greenyellow;
+    text-align: center;
+}
+
+.mylist{ 
+    color: blue;
+}
+
+.mytable{
+    color:green;
+    background:hotpink;
+}
